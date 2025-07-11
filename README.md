@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ahmadTawheed
 - 👀 I’m interested in Digital Agriculture
-- 🌱 I’m currently learning Flutter
+- 🌱 I’m Front End Developer
 
 
 <!---
