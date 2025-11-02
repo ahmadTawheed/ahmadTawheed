@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @ahmadTawheed
-- 👀 I’m interested in Digital Agriculture
-- 🌱 I’m Front End Developer
-
+- Build modern web applications for you | MERN Stack :)
 
 <!---
 ahmadTawheed/ahmadTawheed is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
